@@ -1,0 +1,101 @@
+body{
+    background-color: white;
+}
+#Container{
+    /* padding: 40px; */
+    margin: 50px 130px;
+    width: 1150px;
+    height: 700px;
+    background-color:white;
+}
+#Upperman{
+    display: flex;
+}
+#restman{
+    display: flex;
+    margin-left: 760px;
+}
+.Tops{
+    margin:20px 5px 0px 8px;
+}
+#clers{
+    display: grid;
+    grid-template-columns: 68% 30%;
+    grid-column-gap : 1em;
+    margin-top: 30px;
+}
+.soldier{
+    grid-auto-rows: minmax(100,auto);
+    padding:50px 40px 50px 40px;
+    background-color: black;
+    justify-content: center;
+    height: 475px;
+
+}
+#first{
+    color: gold;
+}
+.girst{
+    color: white;  
+}
+.soft{
+    color: rgba(230, 230, 230, 0.958);
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
+#firstguy{
+    margin-top: 30px;
+    border-bottom: 5px rgba(230, 230, 230, 0.958);
+}
+.bord {
+    height: 0.8px;
+    width: 260px;
+    background-color: aliceblue;
+    margin-top: -20px;
+}
+#diverse{
+    display: grid;
+    grid-template-columns: 50% 46% 50% ;
+}
+#subbate{
+    font-size:70px;
+}
+#show{
+font-size: 20px;
+line-height: 27px;
+/* align-items: start; */
+margin-top: 67px;
+}
+#summitter{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    margin-top: 240px;
+    margin-left: -360px;
+    border-color: white;
+    
+}
+#foot{
+    display: grid;
+    grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+}
+.catch{
+    margin-top: -25px;
+    margin-left: -105px;
+    font-size: 18px;
+}
+.sund{
+    color: beige;
+    margin-top: -20px;
+}
+.sundry{
+    color: beige;
+    margin-top: -12px;
+}
+.mainno{
+    color: beige;
+}
+
+
